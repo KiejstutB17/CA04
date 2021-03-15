@@ -44,7 +44,7 @@ what the lines do.
 
 
 ### File List
-The project includes the Python Notebook, automated_parameter_tuning.csv and census_datacsv.
+The project includes the Python Notebook and census_data.csv.
 Python Notebook:
 Kiejstut_Bunikiewicz_CA04_Ensemble_Models.ipynb
 
